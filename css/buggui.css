@@ -1,0 +1,66 @@
+/* Put any additional CSS here */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #3498db;
+}
+
+h1 {
+    background-color: #ecf0f1;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    color: #3498db;
+}
+
+#app-container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+#app-canvas {
+    border: 5px dashed #ecf0f1;
+}
+
+.unit-tests {
+    text-align: center;
+}
+
+button {
+    display: block;
+    padding: 10px;
+    color: #3498db;
+    background-color: #ecf0f1;
+    font-weight: bold;
+}
+
+a {
+    font-weight: bold;
+    color: #ecf0f1;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.centre {
+    text-align: center;
+}
+
+.marking-button {
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spacer {
+    margin-top: 7px;
+}
